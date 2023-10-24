@@ -1,0 +1,14 @@
+C:\Users\david\Desktop\C#\EjercicioCuadrado\bin\Debug\net6.0\EjercicioCuadrado.exe
+C:\Users\david\Desktop\C#\EjercicioCuadrado\bin\Debug\net6.0\EjercicioCuadrado.deps.json
+C:\Users\david\Desktop\C#\EjercicioCuadrado\bin\Debug\net6.0\EjercicioCuadrado.runtimeconfig.json
+C:\Users\david\Desktop\C#\EjercicioCuadrado\bin\Debug\net6.0\EjercicioCuadrado.dll
+C:\Users\david\Desktop\C#\EjercicioCuadrado\bin\Debug\net6.0\EjercicioCuadrado.pdb
+C:\Users\david\Desktop\C#\EjercicioCuadrado\obj\Debug\net6.0\EjercicioCuadrado.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\david\Desktop\C#\EjercicioCuadrado\obj\Debug\net6.0\EjercicioCuadrado.AssemblyInfoInputs.cache
+C:\Users\david\Desktop\C#\EjercicioCuadrado\obj\Debug\net6.0\EjercicioCuadrado.AssemblyInfo.cs
+C:\Users\david\Desktop\C#\EjercicioCuadrado\obj\Debug\net6.0\EjercicioCuadrado.csproj.CoreCompileInputs.cache
+C:\Users\david\Desktop\C#\EjercicioCuadrado\obj\Debug\net6.0\EjercicioCuadrado.dll
+C:\Users\david\Desktop\C#\EjercicioCuadrado\obj\Debug\net6.0\refint\EjercicioCuadrado.dll
+C:\Users\david\Desktop\C#\EjercicioCuadrado\obj\Debug\net6.0\EjercicioCuadrado.pdb
+C:\Users\david\Desktop\C#\EjercicioCuadrado\obj\Debug\net6.0\EjercicioCuadrado.genruntimeconfig.cache
+C:\Users\david\Desktop\C#\EjercicioCuadrado\obj\Debug\net6.0\ref\EjercicioCuadrado.dll
